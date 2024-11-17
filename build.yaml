@@ -15,3 +15,4 @@
 include:
   - board: nrfmicro_13
     shield: reviung41
+    snippet: studio-rpc-usb-uart
